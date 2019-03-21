@@ -8,7 +8,7 @@ public class Qno:2
 		if(num%2==0){
 		    System.out.println("Even");
 		}
-		else if(num%2>0){
+		else if(num<0){
 		    System.out.println("Invalid");
 		}
 		else if(num%2!=0){
