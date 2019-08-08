@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-public class Qno:1
+public class Qno1
 {
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
